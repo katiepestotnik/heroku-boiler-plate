@@ -1,4 +1,4 @@
 # Heroku Deploy
 ## Mongoose setup with URI link and dotenv.
 
-[Heroku Link](https://ringo-project2.herokuapp.com/)
+[Heroku Link](https://heroku-boiler-plate.herokuapp.com/)
